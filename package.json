@@ -1,12 +1,12 @@
 {
   "name": "react-native-atoz-list",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "High performance fixed height ListView to be used for a contact list or friends list in your application",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "rgovindji@gmail.com",
+  "author": "0224wc@gmail.com",
   "peerdependencies": {
     "babel-plugin-syntax-trailing-function-commas": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rgovindji/react-native-atoz-list.git"
+    "url": "git+https://github.com/shouhuori/react-native-atoz-list.git"
   },
   "keywords": [
     "selectlist",
@@ -50,7 +50,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rgovindji/react-native-atoz-list/issues"
+    "url": "https://github.com/shouhuori/react-native-atoz-list/issues"
   },
-  "homepage": "https://github.com/rgovindji/react-native-atoz-list#readme"
+  "homepage": "https://github.com/shouhuori/react-native-atoz-list#readme"
 }
